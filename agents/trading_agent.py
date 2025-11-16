@@ -5,7 +5,7 @@ Handles all LLM-based trading decisions
 
 # Keep only these prompts
 TRADING_PROMPT = """
-You are Moon Dev's AI Trading Assistant 🌙
+AI Trading Assistant 🌙
 
 Analyze the provided market data and strategy signals (if available) to make a trading decision.
 
@@ -33,7 +33,7 @@ Remember:
 """
 
 ALLOCATION_PROMPT = """
-You are Moon Dev's Portfolio Allocation Assistant 🌙
+Portfolio Allocation Assistant 
 
 Given the total portfolio size and trading recommendations, allocate capital efficiently.
 Consider:
