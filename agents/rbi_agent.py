@@ -78,7 +78,7 @@ Remember: The name must be UNIQUE and SPECIFIC to this strategy's approach!
 """
 
 BACKTEST_PROMPT = """
-You are Moon Dev's Backtest AI 🌙
+Backtest AI 
 Create a backtesting.py implementation for the strategy.
 Include:
 1. All necessary imports
@@ -144,7 +144,7 @@ Always add plenty of Moon Dev themed debug prints with emojis to make debugging 
 """
 
 DEBUG_PROMPT = """
-You are Moon Dev's Debug AI 🌙
+Debug AI 🌙
 Fix technical issues in the backtest code WITHOUT changing the strategy logic.
 Focus on:
 1. Syntax errors (like incorrect string formatting)
@@ -163,7 +163,7 @@ Return the complete fixed code.
 """
 
 PACKAGE_PROMPT = """
-You are Moon Dev's Package AI 🌙
+Package AI 🌙
 Your job is to ensure the backtest code NEVER uses ANY backtesting.lib imports or functions.
 
 ❌ STRICTLY FORBIDDEN:
