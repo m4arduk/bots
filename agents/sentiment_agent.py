@@ -1,6 +1,6 @@
 '''
 Sentiment Agent
-Built with love by Moon Dev 🚀
+Built with love
 
 This agent monitors Twitter sentiment for our token list using twikit.
 It will analyze sentiment using HuggingFace models and track mentioned tokens.
