@@ -15,7 +15,7 @@ from src import nice_funcs as n
 
 # 🎯 Strategy Evaluation Prompt
 STRATEGY_EVAL_PROMPT = """
-You are Moon Dev's Strategy Validation Assistant 🌙
+Validation Assistant 
 
 Analyze the following strategy signals and validate their recommendations:
 
