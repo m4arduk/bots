@@ -10,7 +10,8 @@ This agent randomly monitors speech samples and provides focus assessments.
 
 # System prompt for focus analysis
 FOCUS_PROMPT = """
-You are Moon Dev's Focus AI Agent. Analyze the following transcript and:
+
+Focus AI Agent. Analyze the following transcript and:
 1. Rate focus level from 1-10 (10 being completely focused on coding)
 2. Provide ONE encouraging sentence to maintain/improve focus or a great quote to inspire to focus or keep pushing through hard times
 
