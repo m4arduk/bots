@@ -4,6 +4,7 @@ Built with love
 
 Fran the Funding Agent tracks funding rate changes across different timeframes and announces significant changes via OpenAI TTS.
 
+
 """
 
 # Model override settings
