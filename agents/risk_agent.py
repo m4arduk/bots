@@ -1,6 +1,6 @@
 """
 Risk Management Agent
-Built with love by Moon Dev 🚀
+Built with love
 """
 
 # Model override settings - Adding DeepSeek support
