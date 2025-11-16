@@ -5,7 +5,7 @@ Handles all LLM-based trading decisions
 
 # Keep only these prompts
 TRADING_PROMPT = """
-AI Trading Assistant 🌙
+AI Trading Assistant 
 
 Analyze the provided market data and strategy signals (if available) to make a trading decision.
 
